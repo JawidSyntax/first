@@ -1,3 +1,3 @@
 # first
-Hello from branch two
 
+Hello from branch two
